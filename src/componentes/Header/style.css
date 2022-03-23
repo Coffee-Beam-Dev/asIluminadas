@@ -1,0 +1,36 @@
+header {
+  background-color: #d34040;
+  color: #fff;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60%;
+}
+
+.Navbar {
+  background-color: tomato;
+}
+
+.Nav {
+  color: blue;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
